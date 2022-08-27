@@ -97,5 +97,7 @@ Are you sure you want to continue connecting (yes/no)?
 
   
 
+### 3. git 加速
 
+[https://github.zhlh6.cn/](https://github.zhlh6.cn/)
 
