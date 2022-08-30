@@ -10,3 +10,12 @@
 ## github 
 
 - [github和git配置](doc/git/github配置说明.md)
+
+
+
+## conda 
+
+- [conda配置](doc/conda/conda配置.md)
+
+  
+
